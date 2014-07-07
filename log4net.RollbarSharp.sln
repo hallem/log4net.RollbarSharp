@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.RollbarSharp", "log4net.RollbarSharp\log4net.RollbarSharp.csproj", "{D680A2FE-70CC-4984-8B8F-B5DBC1DD65A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.RollbarSharp.Test", "log4net.RollbarSharp.Test\log4net.RollbarSharp.Test.csproj", "{3A4C0BA0-FF22-48D4-842F-D554F55D5712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D680A2FE-70CC-4984-8B8F-B5DBC1DD65A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D680A2FE-70CC-4984-8B8F-B5DBC1DD65A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D680A2FE-70CC-4984-8B8F-B5DBC1DD65A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D680A2FE-70CC-4984-8B8F-B5DBC1DD65A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4C0BA0-FF22-48D4-842F-D554F55D5712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4C0BA0-FF22-48D4-842F-D554F55D5712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4C0BA0-FF22-48D4-842F-D554F55D5712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4C0BA0-FF22-48D4-842F-D554F55D5712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
